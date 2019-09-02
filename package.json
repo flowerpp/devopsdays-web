@@ -38,6 +38,6 @@
     "require-dir": "~1.2.0"
   },
   "dependencies": {
-    "netlify-cli": "^2.11.10"
+    "netlify-cli": "^2.13.1"
   }
 }
